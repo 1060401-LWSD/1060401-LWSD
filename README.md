@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1060401-LWSD
 - 👀 I’m interested in Coding in Python, C++, and Java.
-- 🌱 I’m currently learning Java in AP CSA.
+- 🌱 I’m currently learning Java in AP CSA class at Tesla STEM High School.
 - 💞️ I’m looking to collaborate on my AP CSA Projects.
 - 📫 Email me at 1060401@lwsd.org
 - 😄 Pronouns: he/him
